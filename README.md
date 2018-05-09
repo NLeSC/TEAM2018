@@ -26,3 +26,13 @@ Sprints ideas can be on any of the projects we do, provided they:
    - contain enough work for 3-5 people for 4 days.
    - specify which project they relate to (can also be eStep, Flagship, EU etc).
 
+__What hours are we writing this on?__
+
+The most often asked question during team sprints is _on which project do I write the hours_? For this year the rules are pretty clear: the hours go to the project that is the topic of your sprint (of course there will always be exceptions, such as multi project sprints, eStep sprints, etc.)  
+
+This does mean that it is good to involve your coordinator (and maybe the PI) when you write a sprint proposal.   
+
+Since we expect the sprints to have well defined goals, you are basically doing a month of work in four days time (with added expertise you may not have yourself). So it should be pretty easy to convince everyone of the benifits.    
+
+
+
