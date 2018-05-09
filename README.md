@@ -5,7 +5,7 @@ This years topic will be:
 
 __our projects__
 
-... for the broadest definition of 'projects'. This includes all our regular projects, but also eStep, Flagship, RSD, EU projects, etc.
+... for the broadest definition of 'projects'. This includes our regular projects, eStep, Flagship, RSD, EU projects, etc.
 
 Due to the fast growth of the eScience Center over the last year, it is no longer practical to jointly work on a single project in the team sprint. That's why we have decided to broaden the scope and go for several projects instead. We'll still schedule everything together in a sprint week (with standups, presentations, etc.) to keep the team building aspect. It's important to get to know your colleagues, especially since we are growing so fast. 
 
