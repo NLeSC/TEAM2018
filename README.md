@@ -32,7 +32,7 @@ The most often asked question during team sprints is _on which project do I writ
 
 This does mean that it is good to involve your coordinator (and maybe the PI) when you write a sprint proposal.   
 
-Since we expect the sprints to have well defined goals, you are basically doing a month of work in four days time (with added expertise you may not have yourself). So it should be pretty easy to convince everyone of the benifits.    
+Since we expect the sprints to have well defined goals, you are basically doing a month of work in four days time, and with added expertise you may not have yourself. So it should be pretty easy to convince everyone of the benefits.    
 
 
 
