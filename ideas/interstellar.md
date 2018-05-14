@@ -61,7 +61,7 @@ Two screenshots of how the portal could look like (old data, hard-coded JSON sch
   - "semantify" or generate RDF graph(s) through mappings to the source data(base)
   - Linked Data deployment on SURFsara's HPC Cloud (e.g. using the OpenLink's Virtuoso server)
 
-Screenshots of the example services are shown below.
+Screenshots of the example services are shown below (with non-astronomy data).
 
 ![FDP](img/FDP.png "FAIR Data Point")
 ![VOS](img/VOS.png "Virtuoso Linked Data browser")
@@ -70,5 +70,5 @@ Screenshots of the example services are shown below.
 * design/build REST API for data processing portal
 * adapt web portal to use REST API & LOFAR data
 * re-implement one of the existing pipeline launchers
-* deploy LTA (meta)data on
+* make LTA (meta)data more FAIR through available services
 
