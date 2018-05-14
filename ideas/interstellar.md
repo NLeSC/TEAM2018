@@ -21,6 +21,8 @@ Web (Javascript / REACT)
 
 RDF / Linked data
 
+Docker
+
 # Size of team
 
 5 (~3 portal, ~2 FAIR)
@@ -34,7 +36,7 @@ The EOSCpfL project is a short (0.5 FTE on our side, total 1 FTE) demonstrator p
 
 ### Task description  - portal
 We will build a modified version of the [Fast Radio Bursts (FRB)](http://www.frbcat.org) Catalogue created in the AA-ALERT project. However, both the data and functionality of this portal will be different:
-* we need to get the data in through a python library instead of directly from a database
+* we need to get the data in through a python library instead of directly from a postgres database
 * we need to launch workflows directly from the portal
 
 This leads us to the following tasks:
@@ -43,13 +45,13 @@ This leads us to the following tasks:
     - provide list of available workflows/pipelines to run
     - provide configuration options (JSON schema) for selected pipeline
     - launch pipeline for selected observation and (modified) configuration
-* adapt portal to use REST API & changed data
-* re-implement one of the pipeline launchers (python) to use JSON schema configuration and bring it up to our standards
+* adapt portal to use REST API & LOFAR data
+* re-implement one of the pipeline launchers (existing python code) to use JSON schema based configuration and bring it up to our standards
 
-Two screenshots of how the portal could look like (old data, hard-coded JSON schema, no usage of REST API) are included below. The first screenshot shows the available pipelines, the second screenshot shows the editable configuration for the pipeline and a 'submit workflow' button.
+Two screenshots of how the portal could look like (using unrelated astronomy data, hard-coded JSON schema for configuration options, no usage of REST API yet) are included below. The first screenshot shows the available (dummy) pipelines, the second screenshot shows the editable configuration for the pipeline and a 'submit workflow' button.
 
-![selection](img/screenshot-selection.png "Pipeline selection")
-![configuration](img/screenshot-expanded.png "Pipeline configuration")
+![selection](img/interstellar/screenshot-selection.png "Pipeline selection")
+![configuration](img/interstellar/screenshot-expanded.png "Pipeline configuration")
 
 ### Task description  - FAIR
 * identify relevant data or tables in the [LOFAR DBView](https://lta-dbview.lofar.eu/DbView)
@@ -63,12 +65,13 @@ Two screenshots of how the portal could look like (old data, hard-coded JSON sch
 
 Screenshots of the example services are shown below (with non-astronomy data).
 
-![FDP](img/FDP.png "FAIR Data Point")
-![VOS](img/VOS.png "Virtuoso Linked Data browser")
+![FDP](img/interstellar/FDP.png "FAIR Data Point")
+![VOS](img/interstellar/VOS.png "Virtuoso Linked Data browser")
 
 # Goals
 * design/build REST API for data processing portal
 * adapt web portal to use REST API & LOFAR data
 * re-implement one of the existing pipeline launchers
 * make LTA (meta)data more FAIR through available services
+* dockerize services
 
