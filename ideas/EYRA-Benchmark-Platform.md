@@ -1,6 +1,6 @@
 # Sprint Name 
 
-_come up with a nice name for your team here_
+EYRA Benchmark Platform
 
 # Team leader
 
@@ -15,17 +15,25 @@ Manual analysis of research data is often tedious and expensive, and with the ad
 
 # Expertise required
 
-_what expertise do you need?_
+- Software architect
+- Containerization
+- Data management
+- CWL or similar
 
 # Size of team
 
-_how many people do you need (including yourself)? Aim for 4 or 5_
+5
 
 # Description
 
-_A description of what you want to do_
+- Make an inventory of the platforms and open source software currently available (Crowd AI, Kaggle, Comic, Covalic, Visceral, Evidencio) and that we could reuse (connect to). Also assess how they are different from what we are planning to do. 
+- Brainstorm about the design of the platform taking different expertises into account
+- Look into COMIC (https://grand-challenge.org/Create_your_own_challenge/) and see whether we could extent this (I already have commitment from the developers of this platform that they are willing to collaborate): https://github.com/comic/grand-challenge.org (I could ask whether James (research software engineer from Radboud UMC who is developing this, could join the sprint)
 
 # Goals
 
-_Well defined goals you want to reach at the end of the sprint_
+- First draft describing all aspects of the platform design and hardware demands for SURF. 
+- Overview of existing platforms and open source software, and how these differ or could be re-used
+
+
 
