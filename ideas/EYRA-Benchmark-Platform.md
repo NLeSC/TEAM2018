@@ -26,6 +26,7 @@ Manual analysis of research data is often tedious and expensive, and with the ad
 
 # Description
 
+For the sprint the plan is to focus on the back-end of the benchmark platform (the front-end could be part of a later sprint):
 - Make an inventory of the platforms and open source software currently available (Crowd AI, Kaggle, Comic, Covalic, Visceral, Evidencio) and that we could reuse (connect to). Also assess how they are different from what we are planning to do. 
 - Brainstorm about the design of the platform taking different expertises into account
 - Look into COMIC (https://grand-challenge.org/Create_your_own_challenge/) and see whether we could extent this (I already have commitment from the developers of this platform that they are willing to collaborate): https://github.com/comic/grand-challenge.org (I could ask whether James (research software engineer from Radboud UMC who is developing this, could join the sprint)
