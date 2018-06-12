@@ -1,10 +1,10 @@
 # Sprint Name
 
-Fairifier
+Fair-check -- FAIR Metrics Validator
 
 # Team leader
 
-Carlos
+Carlos / Arnold
 
 # Target project
 
@@ -27,6 +27,8 @@ In the ecosystem of open science, [FAIR principles](https://www.dtls.nl/fair-dat
 The aim of this team would be to implement a system to automatically evaluate compliance to FAIRMetrics of a given resource.
 
 The ultimate aim of this team would be to contribute our implementation upstream to the [FAIRMetrics](https://github.com/FAIRMetrics/Metrics/).
+
+As a concrete usecase, the [Interstellar](https://github.com/NLeSC/TEAM2018/blob/master/ideas/interstellar.md) data could be used.
 
 # Goals
 
