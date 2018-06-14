@@ -36,6 +36,9 @@ to be defined:
  for current users)
 
 Tasks:
+
+These may change on the basis of input from team members, since fresh eyes will probably mean fresh ideas!
+
 - split framework:
   * move framework code to src/muse directory
   * copy back astro code to src/amuse
