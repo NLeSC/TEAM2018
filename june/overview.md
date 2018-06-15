@@ -1,14 +1,21 @@
-| Team                | Project             | Lead     | Goal                                                 |
-|:-------------------:|:-------------------:|:--------:|------------------------------------------------------|
-| EYRA benchmark      | EYRA Alliance       | Adriënne | Platform for research challenges                     |  
-| Bridging the gap    | Bridging the gap    | Dafne    | Service to automatically process arabic text corpus' |
-| Fair eWaterCycle    | EOSCPilot Hydro     | Niels    | Make eWatercycle results FAIR                        |
-| Interstellar        | EOSCPilot LOFAR     | Ronald   | Dataprocesing portal for LOFAR                       |
-| Ravi                | Portfolio           | Lars     | Project and engineer planning tool for NLeSC         |
-| Holy COW            | *                   | Lourens  | Kick-start Container, Orchestration and Workflow SIG |
-| Fair-check          | FAIRMetrics         | Arnold   | Develop tools for evaluating FAIR metrics            | 
-| dontforgettheguide  | eStep/RSD           | Tom & Jurriaan | Polish and publish the guide                   |
-| Visual Storytelling | Visual Storytelling | Maarten  | Create a visual storytelling module                  |
-| AMUSE to ABC-MUSE   | Flagship            | Inti     | Generalise AMUSE into MUSE                           |
+# TEAM2018
+This is the repo for the first 2018 TEAM sprint. 
+
+The sprint will take place from the 25th to the 28th of June. 
+
+The selected topics are:
+
+| Team                    | Project             | Lead     | Goal                                                 |
+|:-----------------------:|:-------------------:|:--------:|------------------------------------------------------|
+| [EYRA benchmark](https://github.com/NLeSC/TEAM2018/blob/master/june/EYRA-Benchmark-Platform.md) | EYRA Alliance       | Adriënne | Platform for research challenges                     |  
+| [Bridging the gap](https://github.com/NLeSC/TEAM2018/blob/master/june/bridging-the-gap.md)      | Bridging the gap    | Dafne    | Service to automatically process arabic text corpus' |
+| [Fair eWaterCycle](https://github.com/NLeSC/TEAM2018/blob/master/june/ewatercycle.md)           | EOSCPilot Hydro     | Niels    | Make eWatercycle results FAIR                        |
+| [Interstellar](https://github.com/NLeSC/TEAM2018/blob/master/june/interstellar.md)              | EOSCPilot LOFAR     | Ronald   | Data procesing portal for LOFAR                      |
+| [Ravi](https://github.com/NLeSC/TEAM2018/blob/master/june/ravi.md)                              | Portfolio           | Lars     | Project and engineer planning tool for NLeSC         |
+| [Holy COW](https://github.com/NLeSC/TEAM2018/blob/master/june/holy-cow-sig.md)                  | eStep               | Lourens  | Kick-start the new Container, Orchestration and Workflow SIG |
+| [Fair-check](https://github.com/NLeSC/TEAM2018/blob/master/june/fair.md)                        | FAIRMetrics         | Arnold   | Develop tools for evaluating FAIR metrics            | 
+| [dontforgettheguide](https://github.com/NLeSC/TEAM2018/blob/master/june/landing-page-for-the-guide.md)  | eStep/RSD           | Tom & Jurriaan | Publish the guide for a broader audience       |
+| [Visual Storytelling](https://github.com/NLeSC/TEAM2018/blob/master/june/Visual_Storytelling_for_everyone.md) | Visual Storytelling | Maarten  | Create a visual storytelling module                  |
+| [AMUSE to ABC-MUSE](https://github.com/NLeSC/TEAM2018/blob/master/june/abcmuse.md)              | Flagship            | Inti     | Generalise AMUSE into MUSE                           |
 
  
