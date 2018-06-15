@@ -28,7 +28,7 @@ The aim of this team would be to implement a system to automatically evaluate co
 
 The ultimate aim of this team would be to contribute our implementation upstream to the [FAIRMetrics](https://github.com/FAIRMetrics/Metrics/).
 
-As a concrete usecase, the [Interstellar](https://github.com/NLeSC/TEAM2018/blob/master/ideas/interstellar.md) data could be used.
+As a concrete usecase, the [Interstellar](https://github.com/NLeSC/TEAM2018/blob/master/june/interstellar.md) data could be used.
 
 # Goals
 
