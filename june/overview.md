@@ -1,6 +1,6 @@
 # TEAM2018
 
-These are the teams for the first 2018 TEAM sprint. This sprint will take place from the 25th to the 28th of June. 
+These are the teams for the first 2018 TEAM sprint:
 
 | Team                    | Project             | Lead     | Goal                                                 |
 |:-----------------------:|:-------------------:|:--------:|------------------------------------------------------|
@@ -15,4 +15,5 @@ These are the teams for the first 2018 TEAM sprint. This sprint will take place 
 | [Visual Storytelling for everyone](https://github.com/NLeSC/TEAM2018/blob/master/june/Visual_Storytelling_for_everyone.md) | Visual Storytelling | Maarten  | Create a visual storytelling module                  |
 | [From AMUSE to ABC-MUSE](https://github.com/NLeSC/TEAM2018/blob/master/june/abcmuse.md)              | Flagship            | Inti     | Generalise AMUSE into MUSE                           |
 
- 
+ This sprint will take place from the 25th to the 28th of June at the eScience Center. More information will follow soon. 
+
