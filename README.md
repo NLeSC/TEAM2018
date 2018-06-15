@@ -42,5 +42,11 @@ This does mean that it is good to involve your coordinator (and maybe the PI) wh
 
 Since we expect the sprints to have well defined goals, you are basically doing a month of work in four days time, and with added expertise you may not have yourself. So it should be pretty easy to convince everyone of the benefits ;-)  
 
+__The first sprint__
+
+The topics for the first sprint are selected and can be found here:
+
+https://github.com/NLeSC/TEAM2018/blob/master/june/overview.md
+
 
 
