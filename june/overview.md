@@ -1,9 +1,6 @@
 # TEAM2018
-This is the repo for the first 2018 TEAM sprint. 
 
-The sprint will take place from the 25th to the 28th of June. 
-
-The selected topics are:
+These are the teams for the first 2018 TEAM sprint. This sprint will take place from the 25th to the 28th of June. 
 
 | Team                    | Project             | Lead     | Goal                                                 |
 |:-----------------------:|:-------------------:|:--------:|------------------------------------------------------|
