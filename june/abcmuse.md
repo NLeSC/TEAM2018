@@ -18,6 +18,8 @@ Project organization
 
 Testing/ Documentation
 
+note AMUSE targets Linux/MacOS
+
 # Size of team
 
 4 or 5
