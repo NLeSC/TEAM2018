@@ -7,7 +7,7 @@ These are the teams for the first 2018 TEAM sprint:
 | [EYRA benchmark platform](https://github.com/NLeSC/TEAM2018/blob/master/june/EYRA-Benchmark-Platform.md) | EYRA Alliance       | Adriënne | Platform for research challenges                     |  
 | [Bridging the gap](https://github.com/NLeSC/TEAM2018/blob/master/june/bridging-the-gap.md)      | Bridging the gap    | Dafne    | Service to automatically process arabic text corpus' |
 | [Fair eWaterCycle](https://github.com/NLeSC/TEAM2018/blob/master/june/ewatercycle.md)           | EOSCPilot Hydro     | Niels    | Make eWatercycle results FAIR                        |
-| [Interstellar](https://github.com/NLeSC/TEAM2018/blob/master/june/interstellar.md)              | EOSCPilot LOFAR     | Ronald   | Data procesing portal for LOFAR                      |
+| [Interstellar](https://github.com/NLeSC/TEAM2018/blob/master/june/interstellar.md) (FULL!)             | EOSCPilot LOFAR     | Ronald   | Data procesing portal for LOFAR                      |
 | [Ravi](https://github.com/NLeSC/TEAM2018/blob/master/june/ravi.md)                              | Portfolio           | Lars     | Project and engineer planning tool for NLeSC         |
 | [Holy COW-SIG!](https://github.com/NLeSC/TEAM2018/blob/master/june/holy-cow-sig.md)                  | eStep               | Lourens  | Kick-start the new Container, Orchestration and Workflow SIG |
 | [Fair-check](https://github.com/NLeSC/TEAM2018/blob/master/june/fair.md)                        | FAIRMetrics         | Arnold   | Develop tools for evaluating FAIR metrics            | 
