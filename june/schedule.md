@@ -1,5 +1,5 @@
 # Schedule for the first sprint
-_25 to 28 june_
+_25th to 28th of June_
 
 ## Monday
 
