@@ -1,7 +1,7 @@
 # Schedule for the first sprint
 _25 to 28 june_
 
-## Monday, Tuesday
+## Monday
 
 - 9-ish Arrival with coffee
 - 9:30 Short intro by Jason and standup 
