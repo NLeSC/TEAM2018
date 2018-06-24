@@ -54,9 +54,9 @@ Two screenshots of how the portal could look like (using unrelated astronomy dat
 ![configuration](img/interstellar/screenshot-expanded.png "Pipeline configuration")
 
 ### Task description  - FAIR
+* assess the FAIRness of the LOFAR data services (using the [FAIR Metrics](http://fairmetrics.org/))
 * identify relevant data or tables in the [LOFAR DBView](https://lta-dbview.lofar.eu/DbView)
-* access/query the data(base) programmatically (read access to the Oracle DB required)
-  - alternatively, use the example dumps in XML
+* access/query the (meta)data in the Oracle RDBMS (DB access arranged)
 * structure the data according to the following hierarchy: _catalog_->_dataset_->_distribution_ as used by the [FAIR Data Point](https://www.research-software.nl/software/fairdatapoint) web service
 * make the (meta)data available in machine-readable and semantically interoperable format(s)
   - identify terms in (domain-specific) vocabularies and ontologies (e.g. DCMI, IVOA Ontology)
