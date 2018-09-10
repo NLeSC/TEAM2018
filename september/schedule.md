@@ -1,4 +1,4 @@
-# Schedule for the first sprint (24-27 September)
+# Schedule for the second sprint (24-27 September)
 
 ## Monday
 
