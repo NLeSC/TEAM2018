@@ -6,7 +6,7 @@ There is a Docker image with the application and a sample dataset at https://git
 
 This Docker images is for showing the application works, to create a proper demo a scientific storyboard has to be written.
 
-The story I have in mind is to take a gene which encodes for some trait (color, shape, stem size etc.) of a tomato and show that different tomato strains. Show the visual difference as pictures combined with the clustering of the genomes in the explorer.
+The story I have in mind is to take a gene which encodes for some trait (color, shape, stem size etc.) of a tomato and show the different tomato varieties including the clustering of the genomes in the explorer.
 
 This would require some literature searches and if the gene is not included in the sample dataset, a new dataset must be constructed.
 
