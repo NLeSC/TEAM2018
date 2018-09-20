@@ -3,7 +3,7 @@
 ## Monday
 
 - 9-ish Arrival with coffee
-- 9:30 Short intro by Romulo and standup 
+- 9:30 Short intro by Romulo 
 - 10:00 go to work
 - 12-ish Lunch (arranged by the NLeSC)
 - 17:30-ish Time to go home
@@ -18,7 +18,7 @@
 ## Wednesday
 
 - 9-ish Arrival with coffee
-- 9:30 Short standup 
+- 9:30 go to work 
 - 10:00 go to work
 - 12-ish Lunch (arranged by the NLeSC)
 - 17:30-ish Time to go home
