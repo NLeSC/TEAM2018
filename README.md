@@ -48,5 +48,17 @@ The topics for the first sprint are selected and can be found here:
 
 https://github.com/NLeSC/TEAM2018/blob/master/june/overview.md
 
+__The second sprint__
+
+The schedule for the second sprint can be found here:
+
+https://github.com/NLeSC/TEAM2018/blob/master/september/schedule.md
+
+__The third sprint__
+
+The schedule for the third sprint can be found here:
+
+https://github.com/NLeSC/TEAM2018/blob/master/november/schedule.md
+
 
 
